@@ -21,7 +21,7 @@
 <h1 style="text-align:center">Languages and Librairies</h1>
 </br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,ts,react,nextjs,redux,nodejs,mongodb,jest,sass,styledcomponents,tailwind,regex,bash,bun,jquery,md,materialui,npm,webpack,yarn&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,ts,react,nextjs,redux,nodejs,mongodb,jest,sass,styledcomponents,tailwind,regex,bash,bun,jquery,md,materialui,npm,webpack,yarn&perline=12" />
 </a>   
 </div>
 <br>
