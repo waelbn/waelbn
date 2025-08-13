@@ -36,4 +36,17 @@
 <hr/>
 
 
+## 📬 Let's Connect!
+
+<div align="center" style="display: flex; align-items: center; gap: 32px; justiy-content:center">
+  <a href="mailto:wael.bnnacer@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge&logoWidth=30" />
+  </a>
+  <a href="https://www.linkedin.com/in/waelbennacer/" target="_blank">
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  
+  </a>
+</div>
+
+
 
